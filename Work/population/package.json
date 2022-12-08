@@ -23,7 +23,7 @@
     "js-md5": "^0.7.3",
     "moment": "^2.24.0",
     "postcss-px2rem": "^0.3.0",
-    "qs": "^6.6.0",
+    "qs": "^6.7.3",
     "vue": "^2.5.2",
     "vue-countup-v2": "^4.0.0",
     "vue-quill-editor": "^3.0.6",
